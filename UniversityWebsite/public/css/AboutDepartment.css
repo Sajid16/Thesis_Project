@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+html, body {
+  font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+/* NAVBAR */
+
+.navbar {
+  padding: 1rem;
+}
+
+.navbar-nav li {
+  padding-right: 20px;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+/* NAVS */
+
+.nav {
+  padding: 1rem;
+  background-color: #285B19 !important;
+  font-size: 20px;
+}
+
+.nav-link {
+  color: white;
+  padding-right: 20px !important;
+  transition: .7s;
+}
+
+ul.nav a:hover {
+  color: #598B2C!important;
+}
+
+.dropdown:hover>.dropdown-menu{
+  display: block;
+  /* rgba(0,0,,0.8); */
+}
+
+.dropdown-menu{
+  animation: anm1 1s ease;
+}
+
+/* @keyframes anm1 {
+  0%{transform: scale(2,2) rotateX(90deg)}
+  100%{transform: scale(1,1) rotate(0deg);}
+} */
+
+
+#heading{
+  font-style: normal;
+  margin-top: 25px;
+  border-bottom: solid 2px;
+}
+
+h1.about_dept{
+  font-size: 25px;
+  color: black;
+  font-style: bold;
+}
+
+div.row{
+  margin-top: 25px;
+}
+
+div.carousel-inner{
+  height: 394px;
+  margin-bottom: 35px;
+}
+
+div.carousel-caption h5{
+  margin-top: -180px;
+  font-size: 35px;
+  font-family:monospace;
+}
+
+div.carousel-caption p{
+  margin-top: -00px;
+  border-bottom: solid 1px;
+  border-color: white;
+}
+
+p.dept_desc{
+  font-size: 16px;
+  color: black;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+.custom-footer {
+  background-color: #285B19;
+  color: white;
+}
+img.home-logo{
+    width:10%;
+    height:15%;
+    margin-right: 1%;
+}

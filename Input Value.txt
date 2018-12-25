@@ -1,0 +1,46 @@
+Achievements
+-------------
+
+1)Hult Priza at Aust
+2)We are very excited to announce that HULT PRIZE at AUST has made an official collaboration with Ahsanullah University of Science & Technology Debating Club for the event,
+ Hult Prize OnCampus Program 2019.We want to thank and congratulate the members of Hult Prize at AUST Organizing Committee and AUST Debating Club to make
+ this pact happen. Together we are going to host the "First International" Competition at AUST.
+3)www.hultprizeat.com/austbd
+4)event
+
+
+
+Admin Menu
+-------------
+1) Admin
+
+
+Departments
+-------------
+1)Department of Nuclear Engineering
+
+
+
+Employee
+------------
+1) Assistant Professor
+2)CSE
+3)Ms. Syeda Shabnam Hasan
+4)B.Sc. Engg. (CSE), AUST.
+5)
+6)Machine Learning, Fuzzy Logic, Meta heuristic algorithms, text mining
+7)test@gmail.com
+
+
+Annoucments
+-------------
+1) CSE
+2)AUST CSE Society Celebrates "Robotics Fest 2018"
+3) Choose PDF (aust-cse)
+4) Choose Post Date
+5) YES
+6)announcementPDF
+7)Choose Image (images)
+8) Here will be the description
+
+

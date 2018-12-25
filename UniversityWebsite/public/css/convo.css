@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+/* NAVBAR */
+img.home-logo{
+    width:10%;
+    height:15%;
+    margin-right: 1%;
+}
+
+.navbar {
+    padding: 1rem;
+  }
+  
+  .navbar-nav li {
+    padding-right: 20px;
+  }
+  
+  .nav-link {
+    font-size: 1.1em !important;
+  }
+  
+  .dropdown:hover>.dropdown-menu{
+    display: block;
+    /* rgba(0,0,,0.8); */
+    
+  }
+  
+  .dropdown-menu{
+    animation: anm1 1s ease;
+  }
+  
+  /* @keyframes anm1 {
+    0%{transform: scale(2,2) rotateX(90deg)}
+    100%{transform: scale(1,1) rotate(0deg);}
+  } */
+  
+  /* NAVS */
+  
+  .nav {
+    padding: 1rem;
+    background-color: #285B19!important;
+    font-size: 20px;
+  }
+  
+  .nav-link {
+    color: white;
+    padding-right: 20px !important;
+    transition: .7s;
+   
+  }
+  
+  ul.nav a:hover {
+    color:#598B2C !important;
+  }
+  
+.container.title-container h1{
+    margin-top: 1%;
+
+}
+.carousel-inner{
+    height: 400px;
+}
+
+#usualDate{
+    text-align: right;
+}
+.container.carousel-container{
+    margin-bottom: 1%;
+}
+.container.card-container{
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+.card{
+    margin-bottom:2%;
+}
+.card-header{
+  background-color: #285B19;
+    color: white;
+}
+.carousel-item{
+    height: 400px;
+
+}
+.card.event-card{
+    width:inherit;
+}
+
+.card.table-card{
+    width: inherit;
+}
+.card.reg-card{
+    width: inherit;
+}
+.card.required-file{
+    width: inherit;
+}
+.table{
+  font-size: 14px;
+  font-weight:normal;
+}
+/* footer*/
+.custom-footer {
+  background-color: #285B19;
+  color: white;
+}
+  .custom-footer p {
+    font-weight: lighter;
+  }
+
+  #eventslide1{
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
